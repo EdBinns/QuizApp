@@ -30,13 +30,17 @@ Quiz View
  -------------
   ![](https://github.com/EdBinns/QuizApp/blob/main/images%20app/photo_2022-03-21_15-24-08.jpg)
   
+  
  Score View
  -------------
   ![](https://github.com/EdBinns/QuizApp/blob/main/images%20app/photo_2022-03-21_15-24-13.jpg)
   
+  
   Results View
  -------------
   ![](https://github.com/EdBinns/QuizApp/blob/main/images%20app/photo_2022-03-21_15-24-10.jpg)
+  
+
 Herramientas y  tecnologías
  -------------
   - [Kotlin](https://kotlinlang.org/ "Kotlin") 
